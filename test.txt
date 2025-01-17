@@ -1,0 +1,45 @@
+diabetes prediction:
+ex1: you have diabetes 
+Number of Pregnancies: 4
+Glucose: 150 mg/dL
+Blood Pressure: 85 mmHg
+Skin Thickness: 25 mm
+Insulin Level: 130 IU/mL
+Body Mass Index (BMI): 33.6 kg/m²
+Diabetes Pedigree Function: 0.672
+Age: 50
+ex2:you dont have diabets 
+Number of Pregnancies: 1
+Glucose: 95 mg/dL
+Blood Pressure: 72 mmHg
+Skin Thickness: 20 mm
+Insulin Level: 85 IU/mL
+Body Mass Index (BMI): 24.2 kg/m²
+Diabetes Pedigree Function: 0.201
+Age: 28
+
+Heart Disease Prediction:
+ex1:you dont have heart disesase
+Age: 58
+Sex: 1 (Male)
+Chest Pain: no
+Trestbps: 160 mmHg (Resting blood pressure)
+Serum Cholesterol: 260 mg/dL
+Restecg: 1 (ST-T wave abnormality)
+Thalach: 120 bpm (Maximum heart rate achieved)
+Exang: 1 (Exercise-induced angina)
+Oldpeak: 2.5 (ST depression induced by exercise relative to rest)
+Slope: 2 (Flat slope of the ST segment)
+Thal: 3 (Fixed defect)
+ex2:you have heart disesase
+Age: 45
+Sex: 0 (Female)
+Chest Pain: yes
+Trestbps: 120 mmHg (Resting blood pressure)
+Serum Cholesterol: 180 mg/dL
+Restecg: 0 (Normal)
+Thalach: 175 bpm (Maximum heart rate achieved)
+Exang: 0 (No exercise-induced angina)
+Oldpeak: 0.1 (Minimal ST depression)
+Slope: 1 (Upsloping ST segment)
+Thal: 2 (Normal)
